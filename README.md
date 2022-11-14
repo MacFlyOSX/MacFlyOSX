@@ -10,3 +10,5 @@
 
 
 ![MacFlyOSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacFlyOSX&show_icons=true&count_private=true&theme=algolia)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/MartyMacFlyOSX?theme=dark)
