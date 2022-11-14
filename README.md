@@ -8,8 +8,8 @@
 ![techstack](https://user-images.githubusercontent.com/102837663/201064594-7a64524b-2684-460f-968d-b9c85f1244c0.png)
 
 
-<p align='center'>
-  ![MacFlyOSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacFlyOSX&show_icons=true&count_private=true&theme=algolia)
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=MacFlyOSX&show_icons=true&count_private=true&theme=algolia'>
 
 <!--  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MartyMacFlyOSX?theme=dark)
